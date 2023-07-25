@@ -186,14 +186,14 @@ font-size: 7vw;
 color:rgb(0, 0, 0);
 position: absolute;
 top: -40vw;
-left: -50vw;
+left: -47vw;
 transform: rotate(0deg);
 white-space: nowrap;
 }
 
 .btn a{
 position: absolute;
-top: 170vw;
+top: 150vw;
 }
 
 nav{
@@ -202,7 +202,7 @@ display: none;
 
 .line-two {
 position: absolute;
-left: 36vw;
+left: 34vw;
 }
 }
 
